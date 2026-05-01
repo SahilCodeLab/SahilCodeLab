@@ -31,9 +31,10 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SahilCodeLab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=111827&title_color=f97316&text_color=9ca3af&icon_color=f97316" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilCodeLab&layout=compact&theme=tokyonight&hide_border=true&bg_color=111827&title_color=f97316&text_color=9ca3af" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SahilCodeLab&show_icons=true&theme=react&hide_border=true&bg_color=111827&title_color=f97316&text_color=9ca3af&icon_color=f97316" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilCodeLab&layout=compact&theme=react&hide_border=true&bg_color=111827&title_color=f97316&text_color=9ca3af" />
 </p>
+
 
 ---
 
