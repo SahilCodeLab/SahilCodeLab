@@ -13,9 +13,10 @@
 ---
 
 ### 🐍 Contribution Snake (High-Tech Activity)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SahilCodeLab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=111827&title_color=f97316&text_color=9ca3af&icon_color=f97316" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilCodeLab&layout=compact&theme=tokyonight&hide_border=true&bg_color=111827&title_color=f97316&text_color=9ca3af" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SahilCodeLab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=111827&title_color=f97316&text_color=9ca3af&icon_color=f97316" width="48%" alt="Sahil's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilCodeLab&layout=compact&theme=tokyonight&hide_border=true&bg_color=111827&title_color=f97316&text_color=9ca3af" width="48%" alt="Sahil's Top Languages" />
 </p>
 
 <p align="center">
