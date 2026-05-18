@@ -1,126 +1,177 @@
-# <p align="center">🔹 Sahil Raza | High-Performance Engineer 🔹</p>
+<p align="center">
+  <img src="https://sahilcodelab.vercel.app/assets/profile_pic-BX1mKLB7.jpg" width="160" height="160" style="border-radius: 50%; border: 3px solid #00d2ff;" alt="Sahil Raza" />
+</p>
+
+<h1 align="center">Sahil Raza</h1>
+<h3 align="center">Full-Stack Engineer • Security Architect • UI/UX Visionary</h3>
 
 <p align="center">
-  <img src="https://sahilcodelab.vercel.app/assets/profile_pic-BXm1KLB7.jpg" width="150" height="150" style="border-radius: 50%; border: 3px solid #00d2ff;" alt="Sahil Raza" />
+  <a href="https://sahilcodelab.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-sahilcodelab.vercel.app-0070f3?style=for-the-badge" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/sahilraza">
+    <img src="https://img.shields.io/badge/LinkedIn-500%2B_Connections-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:contact@sahilcodelab.dev">
+    <img src="https://img.shields.io/badge/Email-contact@sahilcodelab.dev-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00d2ff&center=true&vCenter=true&width=550&lines=Software+Engineer;Full-Stack+Architect;Android+Security+Expert;UI/UX+Visionary" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Experience-4+_Years_Exp-0070f3?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Builds-20+_Projects-111827?style=for-the-badge&logoColor=00d2ff" />
-  <img src="https://img.shields.io/badge/Location-Kolkata,_India-0070f3?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/LinkedIn-500%2B_Network-111827?style=for-the-badge&logo=linkedin&logoColor=00d2ff" />
-</p>
-
-<p align="center">
-  <a href="https://sahilcodelab.vercel.app/"><img src="https://img.shields.io/badge/Official_Website-SahilCodeLab-0070f3?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00d2ff&center=true&vCenter=true&width=600&lines=Building+Scalable+Digital+Products;4%2B+Years+of+Engineering+Excellence;20%2B+Production+Applications+Delivered;Offline-First+%7C+Security-Focused+%7C+Performance-Driven" alt="Typing SVG" />
 </p>
 
 ---
 
-### <img src="https://api.iconify.design/octicon:user-16.svg?color=%2300d2ff" width="20" height="20" valign="middle" /> Executive Summary
+## 🧠 About Me
 
-Main ek Full-Stack Software Engineer aur UI/UX designer hoon jo high-performance, secure aur scalable digital solutions build karne me specialize karta hai. Offline-first architectures, data privacy, aur seamless animations me deep experience ke sath, maine kafi end-to-end applications market me rollout kiye hain. SahilCodeLab ke under, main industry-standard scalable mobile aur web products design aur architect karta hoon.
+I design and build **high-performance, secure, and scalable digital solutions** that solve real-world problems. With 4+ years of hands-on engineering experience, I specialize in:
+
+- **Offline-First Architectures** — Apps that work seamlessly without internet
+- **Zero-Knowledge Security** — Client-side encryption with complete data privacy
+- **Performance Optimization** — Micro-state management, lazy loading, and asset pre-rendering
+- **End-to-End Product Delivery** — From Figma prototypes to production deployment
+
+Based in **Kolkata, India**, I run **SahilCodeLab** — an independent engineering studio focused on building industry-standard mobile and web applications.
 
 ---
 
-### <img src="https://api.iconify.design/octicon:trophy-16.svg?color=%2300d2ff" width="20" height="20" valign="middle" /> Elite Engineering Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SahilCodeLab&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&title=00d2ff" alt="Sahil's GitHub Trophies" /></a>
-</p>
-
----
-
-### <img src="https://api.iconify.design/octicon:graph-16.svg?color=%2300d2ff" width="20" height="20" valign="middle" /> Ecosystem Analytics & Activity Matrix
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SahilCodeLab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=111827&title_color=00d2ff&text_color=9ca3af&icon_color=00d2ff" width="48%" alt="Sahil's GitHub Stats" />
-  
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SahilCodeLab&layout=compact&theme=tokyonight&hide_border=true&bg_color=111827&title_color=00d2ff&text_color=9ca3af" width="48%" alt="Sahil's Top Languages" />
-</p>
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SahilCodeLab&theme=tokyonight&bg_color=111827&color=00d2ff&line=0070f3&point=9ca3af&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SahilCodeLab&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&title=00d2ff" alt="GitHub Trophies" />
 </p>
 
 ---
 
-### <img src="https://api.iconify.design/octicon:zap-16.svg?color=%2300d2ff" width="20" height="20" valign="middle" /> Daily Streak & Programming Velocity
+## 📊 Development Analytics
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilCodeLab&theme=tokyonight&hide_border=true&background=111827&stroke=00d2ff&ring=0070f3&fire=00d2ff&currStreakLabel=00d2ff" width="49%" alt="GitHub Streak" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=SahilCodeLab&theme=tokyonight&hide_border=true&bg_color=111827&title_color=00d2ff&text_color=9ca3af" width="49%" alt="Coding Hours" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SahilCodeLab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d2ff&text_color=C9D1D9&icon_color=00d2ff" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilCodeLab&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d2ff&ring=00d2ff&fire=00d2ff&currStreakLabel=00d2ff" width="48%" alt="Contribution Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SahilCodeLab&theme=tokyonight&bg_color=0D1117&color=00d2ff&line=0070f3&point=C9D1D9&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 </p>
 
 ---
 
-### <img src="https://api.iconify.design/octicon:terminal-16.svg?color=%2300d2ff" width="20" height="20" valign="middle" /> Tech Stack & Development Arsenal
+## 🛠️ Technology Stack
 
-<p align="left">
-  <b>🌐 Frontend Ecosystem:</b><br/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-</p>
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<p align="left">
-  <b>⚙️ Core Backend & Databases:</b><br/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-<p align="left">
-  <b>📱 Mobile & Cross-Platform:</b><br/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-</p>
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-<p align="left">
-  <b>🧬 Architecture, Tools & Design:</b><br/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+### Tools & Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 PocketID — Encrypted Identity Vault
+> **"Your documents, your device, your encryption."**
+
+A zero-knowledge digital document storage system with military-grade client-side encryption. No data ever leaves the user's device unencrypted.
+
+- **Key Features:** AES-256 encryption, dynamic certificate injection, offline-first sync
+- **Tech:** Flutter, Dart, Custom Encryption Engines
+- **Availability:** [Uptodown Store](https://sahilcodelab.github.io/PocketID/) | [GitHub](https://github.com/SahilCodeLab/PocketID)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SahilCodeLab&repo=PocketID&theme=tokyonight&bg_color=0D1117&title_color=00d2ff&text_color=C9D1D9&icon_color=00d2ff&hide_border=true" width="80%" />
 </p>
 
 ---
 
-### <img src="https://api.iconify.design/octicon:package-16.svg?color=%2300d2ff" width="20" height="20" valign="middle" /> Flagship Production Applications
+### 📱 Master Dex — Pokémon Encyclopedia
+> **"Explore the Pokémon universe with stunning UI."**
 
-#### 🔐 1. PocketID — Secure Local Identity Vault
-* **Overview:** Ek production-grade encrypted digital documentation storage system jisme local-first data isolation implement kiya gaya hai.
-* **Architecture:** Full zero-knowledge client-side data encryption algorithms, dynamic custom pro membership certificate injection system aur granular local caching framework.
-* **Tech Stack:** Flutter, Dart, High-Performance Local Encryption Engines.
-* **Distribution:** Available on [Uptodown Platform](https://sahilcodelab.github.io/PocketID/).
+An ultra-responsive, media-rich Pokémon encyclopedia powered by PokeAPI with glassmorphic design and optimized asset handling.
 
-<a href="https://github.com/SahilCodeLab/PocketID"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SahilCodeLab&repo=PocketID&theme=tokyonight&bg_color=111827&title_color=00d2ff&text_color=9ca3af&icon_color=00d2ff&hide_border=true" width="100%" /></a>
+- **Key Features:** Micro-state optimization, async data pipelines, background pre-rendering
+- **Tech:** Flutter, Android Native, REST API Integration
+- **GitHub:** [Master Dex](https://github.com/SahilCodeLab/Master-Dex)
 
-#### 📱 2. Master Dex — Advanced Game Encyclopedia
-* **Overview:** PokeAPI parameters par built ek ultra-responsive, asset-heavy encyclopedia software system.
-* **Architecture:** Component micro-state optimization, asynchronous data pulling pipes, asset background pre-rendering pipelines, aur glassmorphic dynamic contrast interface screens.
-* **Tech Stack:** Android Native Components, Flutter Framework, Complex External API Stream Integrations.
-* **Repository:** [Master Dex Source](https://github.com/SahilCodeLab/Master-Dex).
-
-<a href="https://github.com/SahilCodeLab/Master-Dex"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SahilCodeLab&repo=Master-Dex&theme=tokyonight&bg_color=111827&title_color=00d2ff&text_color=9ca3af&icon_color=00d2ff&hide_border=true" width="100%" /></a>
-
-#### 📝 3. Aura Notes — Local Encrypted Productivity Tool
-* **Overview:** Privacy-first note-taking engine jo completely users ke hardware device par dynamic encrypted notes synchronize aur serialize karta hai bina external servers storage leaks ke.
-* **Performance:** Real-time data sync loops, custom Markdown parser layer, 10,000+ production application downloads across official Palm Store infrastructure distributions.
-* **Tech Stack:** Hybrid Mobile System Architecture, Local Databases.
-
-#### ⚡ 4. Wrapify — Independent Utility Ecosystem
-* **Overview:** Ek high-performance custom utility product automation app jo users ke localized workspace processing capabilities ko optimize karta hai bina cloud architecture bottlenecks ke.
-* **Compliance:** 100% standalone software tool, listed on Uptodown App Marketplace platforms.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SahilCodeLab&repo=Master-Dex&theme=tokyonight&bg_color=0D1117&title_color=00d2ff&text_color=C9D1D9&icon_color=00d2ff&hide_border=true" width="80%" />
+</p>
 
 ---
 
-### <img src="https://api.iconify.design/octicon:code-review-16.svg?color=%2300d2ff" width="20" height="20" valign="middle" /> Architectural Patterns & Philosophy
+### 📝 Aura Notes — Private Productivity
+A privacy-first note-taking engine with local encryption and custom Markdown rendering. **10,000+ downloads** on Palm Store.
+
+### ⚡ Wrapify — Utility Automation
+A standalone utility app that optimizes device workflows without cloud dependencies. Listed on Uptodown Marketplace.
+
+---
+
+## 💡 Engineering Philosophy
+
+| Principle | Description |
+|-----------|-------------|
+| **Privacy by Design** | User data never leaves the device without explicit, encrypted consent |
+| **Offline First** | Core functionality works without internet connectivity |
+| **Performance Obsessed** | Every millisecond counts — from render cycles to API responses |
+| **Clean Architecture** | Separation of concerns, testable code, scalable patterns |
+| **User-Centric UI** | Intuitive interfaces backed by thoughtful UX research |
+
+---
+
+## 📈 Impact Metrics
+
+- **20+** Production applications built and deployed
+- **10,000+** Cumulative app downloads across platforms
+- **500+** Professional network on LinkedIn
+- **Multiple** apps featured on Uptodown and Palm Store
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm actively seeking opportunities in:
+- **Full-Stack Development** (React/Next.js + Node.js)
+- **Mobile Engineering** (Flutter/Dart)
+- **Security-Focused Applications**
+- **Open Source Contributions**
+
+<p align="center">
+  <a href="https://sahilcodelab.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-0070f3?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:contact@sahilcodelab.dev">
+    <img src="https://img.shields.io/badge/📧_Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SahilCodeLab&color=00d2ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <sub>© 2024 Sahil Raza | Built with ❤️ and ☕ | Kolkata, India</sub>
+</p>
