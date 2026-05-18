@@ -12,15 +12,19 @@
 
 ---
 
-### 🐍 Contribution Snake (High-Tech Activity)
+### 🐍 Contribution Snake & GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SahilCodeLab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=111827&title_color=f97316&text_color=9ca3af&icon_color=f97316" width="48%" alt="Sahil's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilCodeLab&layout=compact&theme=tokyonight&hide_border=true&bg_color=111827&title_color=f97316&text_color=9ca3af" width="48%" alt="Sahil's Top Languages" />
+  <!-- GitHub Stats Card using alternative reliable server -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SahilCodeLab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=111827&title_color=f97316&text_color=9ca3af&icon_color=f97316" width="48%" alt="Sahil's GitHub Stats" />
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SahilCodeLab&layout=compact&theme=tokyonight&hide_border=true&bg_color=111827&title_color=f97316&text_color=9ca3af" width="48%" alt="Sahil's Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SahilCodeLab/SahilCodeLab/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <!-- Instant Snake Animation using automated daily svgs (Bina Action Setup kiye chalega) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SahilCodeLab&theme=tokyonight&bg_color=111827&color=f97316&line=f97316&point=9ca3af&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 </p>
 
 ---
