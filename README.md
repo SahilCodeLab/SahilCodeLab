@@ -43,7 +43,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SahilCodeLab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=111827&title_color=00d2ff&text_color=9ca3af&icon_color=00d2ff" width="49%" alt="Core Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SahilCodeLab&layout=compact&theme=tokyonight&hide_border=true&bg_color=111827&title_color=00d2ff&text_color=9ca3af" width="49%" alt="Top Languages" />
+
 </p>
 
 <p align="center">
