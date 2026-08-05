@@ -1,88 +1,326 @@
-<div align="center">
+<!-- ============================================================
+     SAHIL RAZA — SAHILCODELAB PREMIUM PROFILE
+     ============================================================ -->
 
-<!-- ✨ Animated Banner ✨ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./megha-banner.svg?v=7">
-  <source media="(prefers-color-scheme: light)" srcset="./megha-banner-light.svg?v=1">
-  <img src="./megha-banner.svg?v=7" alt="Megha Mittal — Frontend Developer" width="100%"/>
-</picture>
-
-</div>
-
-<br/>
-
-<table align="center" border="0">
+<!-- ================= WAVE HEADER WITH LOGO ================= -->
+<table width="100%">
 <tr>
-<td width="38%" align="center" valign="middle">
-
-<!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
-<img src="./megha-lanyard.svg?v=2" alt="Megha Mittal ID badge" width="330"/>
-
+<td width="15%" align="center">
+  <img src="https://raw.githubusercontent.com/SahilCodeLab/SahilCodeLab/main/Group%204.svg" width="100" alt="SahilCodeLab Logo" />
 </td>
-<td width="62%" valign="middle">
-
-### 🌸 My Anime Creations
-
-| 🎌 Project | 💻 Tech | ⭐ |
-|:---|:---:|:---:|
-| [🍥 Naruto — Sage Mode](https://github.com/Meghamittal0920/Naruto-SageMode) | `HTML` `CSS` `JS` | 25 |
-| [⚔️ Zoro — King of Hell](https://github.com/Meghamittal0920/Zoro-King-of-hell) | `HTML` `CSS` `JS` | 9 |
-| [🌙 Demon Slayer — Yoriichi & Kokushibo](https://github.com/Meghamittal0920/Demon-Slayer-Yorichi-Kokoshibo-) | `HTML` `CSS` `JS` | 8 |
-| [👁️ JJK — Sukuna](https://github.com/Meghamittal0920/JJK-Sakuna) | `HTML` `CSS` `JS` | 8 |
-| [🏴‍☠️ One Piece 3D Website](https://github.com/Meghamittal0920/One-Piece-3D-Website) | `TypeScript` `Three.js` | 2 |
-
-<br/>
-
-> 💗 *"I don't watch anime, I code anime."*
-
+<td width="85%">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A101F,50:0070f3,100:00d2ff&height=180&section=header&text=SAHIL%20RAZA&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=SahilCodeLab%20%7C%20Full%20Stack%20%26%20Android%20Engineer&descAlignY=56&descSize=17" />
 </td>
 </tr>
 </table>
 
-<br/>
+<!-- ================= PROFILE + STATS ROW ================= -->
+<table align="center" width="100%">
+<tr>
+<td align="center" width="30%" valign="middle">
+  <a href="https://sahilcodelab.vercel.app/">
+    <img src="https://sahilcodelab.vercel.app/assets/profile_pic-BXm1KLB7.jpg" width="160" height="160" style="border-radius: 50%; border: 4px solid #00d2ff; padding: 4px; box-shadow: 0 0 40px rgba(0,210,255,0.3);" alt="Sahil Raza" />
+  </a>
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=18&pause=700&color=00D2FF&center=true&vCenter=true&width=300&height=30&lines=SahilCodeLab+%F0%9F%9A%80;Building+the+Future" alt="Typing" />
+</td>
+<td align="center" width="70%" valign="middle">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=28&pause=800&color=00D2FF&center=true&vCenter=true&width=600&height=50&lines=Hi+there%2C+I'm+Sahil+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Android+%2B+Flutter+Engineer+%F0%9F%93%B1;4%2B+Years+of+Building+%F0%9F%9A%80;20%2B+Projects+Shipped+%F0%9F%93%A6" alt="Typing Header" />
+  <br/><br/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=16&pause=1000&color=9CA3AF&center=true&vCenter=true&width=600&height=60&lines=Building+High+Performance+Webs...;Architecting+Secure+Android+Apps...;Integrating+Seamless+Payments...;Zero+Knowledge+Offline+Vaults..." alt="Terminal Intel" />
+</td>
+</tr>
+</table>
 
-<div align="center">
+<!-- ================= BADGE STRIP ================= -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-4%2B_Years-0070f3?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Projects-20%2B_Shipped-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Based_in-Kolkata,_India-0070f3?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=SahilCodeLab&label=Profile%20Views&color=00d2ff&style=for-the-badge" />
+</p>
 
-### 📊 GitHub Stats & Graphs
+<p align="center">
+  <a href="https://sahilcodelab.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%9A%80_LIVE_PORTFOLIO-SAHILCODELAB.VERCEL.APP-00d2ff?style=flat-square&logo=vercel&logoColor=black" /></a>
+</p>
 
-<img src="./megha-stats.svg?v=2" alt="GitHub Stats" height="185"/>
-<img src="./megha-langs.svg?v=2" alt="Top Languages" height="185"/>
+<!-- ================= CODING ANIMATION ================= -->
+<p align="center">
+  <img width="450" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding animation" />
+</p>
 
-<br/><br/>
+---
 
-<img src="https://streak-stats.demolab.com?user=Meghamittal0920&theme=radical&hide_border=true&background=170e28&ring=ff7eb6&fire=e879f9&currStreakLabel=c084fc" alt="GitHub Streak"/>
+<!-- ================= TECH MARQUEE ================= -->
+### <img src="https://api.iconify.design/svg-spinners:bars-rotate-fade.svg?color=%2300d2ff" width="22" height="22" valign="middle" /> Tech Arsenal — Live Scroll
 
-<br/><br/>
+<p align="center">
+<svg width="100%" height="80" viewBox="0 0 1000 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="marqueeClip"><rect x="0" y="0" width="1000" height="80" rx="16" /></clipPath>
+    <linearGradient id="fadeMask2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="white" stop-opacity="0"/>
+      <stop offset="8%" stop-color="white" stop-opacity="1"/>
+      <stop offset="92%" stop-color="white" stop-opacity="1"/>
+      <stop offset="100%" stop-color="white" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="edgeFade2"><rect x="0" y="0" width="1000" height="80" fill="url(#fadeMask2)" /></mask>
+  </defs>
+  <rect x="0" y="0" width="1000" height="80" rx="16" fill="#111827" />
+  <g mask="url(#edgeFade2)">
+    <g clip-path="url(#marqueeClip)">
+      <g>
+        <animateTransform attributeName="transform" type="translate" from="20 0" to="-1400 0" dur="25s" repeatCount="indefinite" />
+        <image href="https://skillicons.dev/icons?i=react" x="0" y="14" width="52" height="52"/>
+        <image href="https://skillicons.dev/icons?i=nextjs" x="76" y="14" width="52" height="52"/>
+        <image href="https://skillicons.dev/icons?i=tailwind" x="152" y="14" width="52" height="52"/>
+        <image href="https://skillicons.dev/icons?i=js" x="228" y="14" width="52" height="52"/>
+        <image href="https://skillicons.dev/icons?i=ts" x="304" y="14" width="52" height="52"/>
+        <image href="https://skillicons.dev/icons?i=nodejs" x="380" y="14" width="52" height="52"/>
+        <image href="https://skillicons.dev/icons?i=express" x="456" y="14" width="52" height="52"/>
+        <image href="https://skillicons.dev/icons?i=mongodb" x="532" y="14" width="52" height="52"/>
+        <image href="https://skillicons.dev/icons?i=postgres" x="608" y="14" width="52" height="52"/>
+        <image href="https://skillicons.dev/icons?i=flutter" x="684" y="14" width="52" height="52"/>
+        <image href="https://skillicons.dev/icons?i=dart" x="760" y="14" width="52" height="52"/>
+        <image href="https://skillicons.dev/icons?i=kotlin" x="836" y="14" width="52" height="52"/>
+        <image href="https://skillicons.dev/icons?i=androidstudio" x="912" y="14" width="52" height="52"/>
+        <image href="https://skillicons.dev/icons?i=firebase" x="988" y="14" width="52" height="52"/>
+        <image href="https://skillicons.dev/icons?i=figma" x="1064" y="14" width="52" height="52"/>
+        <image href="https://skillicons.dev/icons?i=git" x="1140" y="14" width="52" height="52"/>
+        <image href="https://skillicons.dev/icons?i=postman" x="1216" y="14" width="52" height="52"/>
+        <image href="https://skillicons.dev/icons?i=vercel" x="1292" y="14" width="52" height="52"/>
+        <image href="https://skillicons.dev/icons?i=react" x="1368" y="14" width="52" height="52"/>
+        <image href="https://skillicons.dev/icons?i=nextjs" x="1444" y="14" width="52" height="52"/>
+        <image href="https://skillicons.dev/icons?i=tailwind" x="1520" y="14" width="52" height="52"/>
+        <image href="https://skillicons.dev/icons?i=js" x="1596" y="14" width="52" height="52"/>
+        <image href="https://skillicons.dev/icons?i=ts" x="1672" y="14" width="52" height="52"/>
+        <image href="https://skillicons.dev/icons?i=nodejs" x="1748" y="14" width="52" height="52"/>
+        <image href="https://skillicons.dev/icons?i=express" x="1824" y="14" width="52" height="52"/>
+        <image href="https://skillicons.dev/icons?i=mongodb" x="1900" y="14" width="52" height="52"/>
+        <image href="https://skillicons.dev/icons?i=postgres" x="1976" y="14" width="52" height="52"/>
+        <image href="https://skillicons.dev/icons?i=flutter" x="2052" y="14" width="52" height="52"/>
+        <image href="https://skillicons.dev/icons?i=dart" x="2128" y="14" width="52" height="52"/>
+        <image href="https://skillicons.dev/icons?i=kotlin" x="2204" y="14" width="52" height="52"/>
+        <image href="https://skillicons.dev/icons?i=androidstudio" x="2280" y="14" width="52" height="52"/>
+        <image href="https://skillicons.dev/icons?i=firebase" x="2356" y="14" width="52" height="52"/>
+        <image href="https://skillicons.dev/icons?i=figma" x="2432" y="14" width="52" height="52"/>
+        <image href="https://skillicons.dev/icons?i=git" x="2508" y="14" width="52" height="52"/>
+        <image href="https://skillicons.dev/icons?i=postman" x="2584" y="14" width="52" height="52"/>
+        <image href="https://skillicons.dev/icons?i=vercel" x="2660" y="14" width="52" height="52"/>
+      </g>
+    </g>
+  </g>
+</svg>
+</p>
 
-<!-- 📈 Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Meghamittal0920&bg_color=170e28&color=ff7eb6&line=8b5cf6&point=e879f9&area=true&area_color=8b5cf6&hide_border=true&custom_title=Contribution%20Graph%20💗" alt="Contribution graph" width="95%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:0A101F&height=2" />
 
-<br/><br/>
+---
 
-<!-- 🏆 Trophies (local animated SVG — always loads) -->
-<img src="./megha-trophies.svg?v=2" alt="Trophies" width="95%"/>
+<!-- ================= GITHUB STATS ROW (REAL DATA) ================= -->
+### <img src="https://api.iconify.design/svg-spinners:pulse.svg?color=%2300d2ff" width="22" height="22" valign="middle" /> 📊 GitHub Analytics (Live Data)
 
-<br/><br/>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SahilCodeLab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=111827&title_color=00d2ff&text_color=9ca3af&icon_color=00d2ff&count_private=true&include_all_commits=true" width="49%" alt="Core Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SahilCodeLab&layout=compact&theme=tokyonight&hide_border=true&bg_color=111827&title_color=00d2ff&text_color=9ca3af&langs_count=8" width="45%" alt="Top Langs" />
+</p>
 
-### 🐍 Watch the snake eat my contributions
+<!-- ================= ACTIVITY GRAPH ================= -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SahilCodeLab&theme=tokyonight&bg_color=111827&color=00d2ff&line=0070f3&point=9ca3af&area=true&hide_border=true" width="100%" alt="Activity Wave" />
+</p>
 
-<img src="https://raw.githubusercontent.com/Meghamittal0920/Meghamittal0920/output/github-snake-pink.svg" alt="Contribution snake"/>
+<!-- ================= STREAK STATS ================= -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilCodeLab&theme=tokyonight&hide_border=true&background=111827&stroke=00d2ff&ring=0070f3&fire=00d2ff&currStreakLabel=00d2ff" width="100%" alt="Streak" />
+</p>
 
-<br/><br/>
+---
 
-### 📫 Let's Connect
+<!-- ================= CONTRIBUTION SNAKE (PINK EDITION) ================= -->
+### <img src="https://api.iconify.design/svg-spinners:bars-scale-middle.svg?color=%2300d2ff" width="22" height="22" valign="middle" /> 🐍 Contribution Snake — Pink Edition
 
-<a href="mailto:meghamittal563@gmail.com"><img src="https://img.shields.io/badge/Email-ff7eb6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/Meghamittal0920"><img src="https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.instagram.com/codergirl.megha"><img src="https://img.shields.io/badge/Instagram-e879f9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://www.youtube.com/@codergirlmegha"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Meghamittal0920/Meghamittal0920/output/github-snake-pink.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Meghamittal0920/Meghamittal0920/output/github-snake-pink.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Meghamittal0920/Meghamittal0920/output/github-snake-pink.svg" width="100%" />
+  </picture>
+</p>
 
-<br/><br/>
+---
 
-<img src="https://komarev.com/ghpvc/?username=Meghamittal0920&color=ff7eb6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+<!-- ================= TROPHIES ================= -->
+### <img src="https://api.iconify.design/svg-spinners:ring-resize.svg?color=%2300d2ff" width="22" height="22" valign="middle" /> 🏆 GitHub Trophies
 
-<br/><br/>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SahilCodeLab&theme=tokyonight&column=5&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" />
+  </a>
+</p>
 
-*⭐️ Always learning, always building.* 💗
+---
 
-</div>
+<!-- ================= RANDOM DEV QUOTE ================= -->
+### <img src="https://api.iconify.design/svg-spinners:bouncing-ball.svg?color=%2300d2ff" width="22" height="22" valign="middle" /> 💡 Random Dev Wisdom
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
+</p>
+
+---
+
+<!-- ================= TECH STACK DETAILED ================= -->
+### <img src="https://api.iconify.design/svg-spinners:blocks-shuffle-3.svg?color=%2300d2ff" width="22" height="22" valign="middle" /> 🛠️ Tech Stack & Custom Weaponry
+
+<table align="center" width="100%">
+  <tr>
+    <td align="left" width="33%" valign="top">
+      <h4>🌐 Web Frontend</h4>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    </td>
+    <td align="left" width="33%" valign="top">
+      <h4>⚡ Backend & DB</h4>
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    </td>
+    <td align="left" width="34%" valign="top">
+      <h4>📱 Mobile</h4>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left" width="33%" valign="top">
+      <h4>☁️ Cloud & DevOps</h4>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+    </td>
+    <td align="left" width="33%" valign="top">
+      <h4>🎨 Design & Tools</h4>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+      <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+    </td>
+    <td align="left" width="34%" valign="top">
+      <h4>🧪 Testing & APIs</h4>
+      <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+      <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+      <img src="https://img.shields.io/badge/REST-009688?style=for-the-badge&logo=api&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ================= FLAGSHIP PROJECTS ================= -->
+### <img src="https://api.iconify.design/svg-spinners:blocks-wave.svg?color=%2300d2ff" width="22" height="22" valign="middle" /> 🚀 Flagship Production Repositories
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top" style="background: #111827; border-radius: 12px; padding: 16px;">
+      <h4>🔐 <a href="https://sahilcodelab.github.io/PocketID/" style="color: #00d2ff;">PocketID — Encrypted Vault</a></h4>
+      <p style="color: #9ca3af;">Secure offline-first digital vault for fully isolated document storage. Uses client-side heavy cryptographic processing pipelines with zero-knowledge architecture.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Build-Passing-00d2ff?style=flat-square" />
+        <img src="https://img.shields.io/badge/Architecture-Offline--First-0070f3?style=flat-square" />
+        <img src="https://img.shields.io/badge/Security-AES--256-10B981?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top" style="background: #111827; border-radius: 12px; padding: 16px;">
+      <h4>📚 <a href="https://github.com/SahilCodeLab/Master-Dex" style="color: #00d2ff;">Master Dex — Encyclopedia</a></h4>
+      <p style="color: #9ca3af;">High-fidelity database application calling complex external multi-stream endpoints optimized with fluid glassmorphic styling grids and real-time search.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Build-Passing-00d2ff?style=flat-square" />
+        <img src="https://img.shields.io/badge/UI-Glassmorphism-0070f3?style=flat-square" />
+        <img src="https://img.shields.io/badge/API-REST-10B981?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="background: #111827; border-radius: 12px; padding: 16px;">
+      <h4>💳 <a href="#" style="color: #00d2ff;">PayFlow — Payment Integration</a></h4>
+      <p style="color: #9ca3af;">Seamless payment gateway integration with multi-provider support, webhook handling, and real-time transaction monitoring dashboard.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Development-0070f3?style=flat-square" />
+        <img src="https://img.shields.io/badge/Payment-Stripe%2C+Razorpay-10B981?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top" style="background: #111827; border-radius: 12px; padding: 16px;">
+      <h4>📱 <a href="#" style="color: #00d2ff;">FitTrack — Health App</a></h4>
+      <p style="color: #9ca3af;">Cross-platform health tracking application with real-time sensor data, ML-based activity recognition, and beautiful data visualizations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Planning-0070f3?style=flat-square" />
+        <img src="https://img.shields.io/badge/Platform-Flutter-10B981?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ================= SOCIAL CONNECT ================= -->
+### <img src="https://api.iconify.design/svg-spinners:tadpole.svg?color=%2300d2ff" width="22" height="22" valign="middle" /> 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/YOUR-INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=00d2ff" /></a>&nbsp;&nbsp;
+  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=00d2ff" /></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/YOUR-TWITTER"><img src="https://img.shields.io/badge/Twitter-111827?style=for-the-badge&logo=twitter&logoColor=00d2ff" /></a>&nbsp;&nbsp;
+  <a href="https://sahilcodelab.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=00d2ff" /></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@YOUR-YOUTUBE"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
+
+---
+
+<!-- ================= WAVE FOOTER ================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,50:0070f3,100:0A101F&height=120&section=footer" />
+
+---
+
+<!-- ============================================================
+     📌 GITHUB ACTION — APNI SNAKE GENERATE KARNE KE LIYE
+     ============================================================ -->
+
+<details>
+<summary>⚙️ <b>Apni Contribution Snake Generate Karne Ka Action</b> (.github/workflows/snake.yml)</summary>
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: SahilCodeLab
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=00d2ff&color_dots=#111827,#00d2ff,#0070f3,#9ca3af,#7C3AED
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "Update snake animation [skip ci]"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
