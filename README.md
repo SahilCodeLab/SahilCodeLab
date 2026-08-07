@@ -503,3 +503,11 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 </details>
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SahilCodeLab/SahilCodeLab/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SahilCodeLab/SahilCodeLab/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/SahilCodeLab/SahilCodeLab/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
