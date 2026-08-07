@@ -23,7 +23,7 @@ jobs:
           github_user_name: SahilCodeLab
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=00d2ff&color_dots=#111827,#00d2ff,#0070f3,#9ca3af,#7C3AED
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00d2ff&color_dots=#161b22,#1f2937,#0070f3,#00d2ff,#7c3aed
 
       # 3. Push the changes to the output branch automatically
       - uses: crazy-max/ghaction-github-pages@v4
