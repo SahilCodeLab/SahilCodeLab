@@ -98,6 +98,47 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Clean_Architecture-95%25-00d2ff?style=flat-square" />
   <img src="https://img.shields.io/badge/Security_Enforced-100%25-0070f3?style=flat-square" />
+<!-- Demo Badges -->
+<p align="center">
+  <a href="https://sahilcodelab.vercel.app/pocketid-demo"><img src="https://img.shields.io/badge/Demo-Pocket%20ID-00d2ff?style=for-the-badge&logo=webhook" alt="Pocket ID Demo"/></a>
+  <a href="https://sahilcodelab.vercel.app/aura-demo"><img src="https://img.shields.io/badge/Demo-Aura%20Notes-00d2ff?style=for-the-badge&logo=webhook" alt="Aura Notes Demo"/></a>
+  <a href="https://sahilcodelab.vercel.app/warpify-demo"><img src="https://img.shields.io/badge/Demo-Warpify-00d2ff?style=for-the-badge&logo=webhook" alt="Warpify Demo"/></a>
+  <a href="https://sahilcodelab.vercel.app/masterdex-demo"><img src="https://img.shields.io/badge/Demo-Master%20Dex-00d2ff?style=for-the-badge&logo=webhook" alt="Master Dex Demo"/></a>
+</p>
+
+## 🚀 Quick‑Start
+
+```bash
+# Clone the repo
+git clone https://github.com/SahilCodeLab/SahilCodeLab.git
+cd SahilCodeLab
+
+# Install Flutter dependencies
+flutter pub get
+
+# Run Pocket ID (Android)
+flutter run -d android
+```
+
+> **Tip** – All projects use Flutter 3.19.x. See the [Flutter SDK install guide](https://flutter.dev/docs/get-started/install).
+
+<!-- Feature Cards -->
+<table align="center" style="border-collapse: separate; border-spacing: 12px;">
+  <tr>
+    <td style="background:#0d1117;border-radius:12px;padding:16px;">
+      <img src="https://img.shields.io/badge/🔐-End‑to‑End%20Encryption-00d2ff?style=flat-square" />
+      <p>All data stored locally with AES‑256 encryption.</p>
+    </td>
+    <td style="background:#0d1117;border-radius:12px;padding:16px;">
+      <img src="https://img.shields.io/badge/⚡-Offline‑First-00d2ff?style=flat-square" />
+      <p>Full functionality without an internet connection.</p>
+    </td>
+    <td style="background:#0d1117;border-radius:12px;padding:16px;">
+      <img src="https://img.shields.io/badge/📱-Cross‑Platform-00d2ff?style=flat-square" />
+      <p>Runs on Android, iOS, Web, and Desktop via Flutter.</p>
+    </td>
+  </tr>
+</table>
   <img src="https://img.shields.io/badge/Local_First_DBs-90%25-3ddc84?style=flat-square" />
 </p>
 
