@@ -306,6 +306,10 @@ flutter run -d android
 
 ---
 
+https://github.com/SAHILCODELAB/SAHILCODELAB/blob/output/github-contribution-grid-snake.gif
+
+
+
 <!-- ================= 10+ ARCHITECTURAL FEATURES ================= -->
 ### <img src="https://api.iconify.design/svg-spinners:blocks-shuffle-3.svg?color=%2300d2ff" width="22" height="22" valign="middle" /> ⚡ 10+ Core Capabilities & Architectural Highlights
 1. **Offline-First Application Architecture:** Implementing robust offline-first synchronization workflows with SQLite, Hive, and local databases.
