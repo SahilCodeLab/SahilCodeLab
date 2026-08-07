@@ -1,439 +1,431 @@
 <!-- ============================================================
-     SAHIL RAZA — SAHILCODELAB ULTIMATE PROFILE
+     SAHIL RAZA — SAHILCODELAB ULTIMATE PROFILE README
      ============================================================ -->
 
-<!-- ================= HEADER WITH LOGO ================= -->
-<table width="100%" style="border: none;">
+<!-- ================= BANNER & HEADER ================= -->
+<table width="100%" style="border: none; border-collapse: collapse;">
   <tr>
     <td width="15%" align="center" style="border: none; vertical-align: middle;">
-      <img src="https://sahilcodelab.vercel.app/sahilcodelab-brand.ico" width="80" alt="SahilCodeLab Logo" />
+      <img src="sahilcodelab-brand.icon" width="85" alt="SahilCodeLab Logo" />
     </td>
     <td width="70%" align="center" style="border: none; vertical-align: middle;">
-      <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0A101F,50:0070f3,100:00d2ff&amp;height=150&amp;section=header&amp;text=SAHIL%20RAZA&amp;fontSize=40&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=30&amp;desc=SahilCodeLab%20%7C%20Flutter%20%26%20Full%20Stack%20Engineer&amp;descAlignY=50&amp;descSize=16" alt="Header Banner" />
+      <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2ff,50:0070f3,100:002b5c&height=180&section=header&text=SAHIL%20RAZA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20%7C%20Full-Stack%20Engineer%20%7C%20Security%20Enthusiast&descAlignY=60&descSize=16" alt="Header Banner" />
     </td>
     <td width="15%" align="center" style="border: none; vertical-align: middle;">
-      <img src="https://sahilcodelab.vercel.app/sahilcodelab-brand.ico" width="80" alt="SahilCodeLab Icon" />
+      <img src="sahilcodelab-brand.icon" width="85" alt="SahilCodeLab Icon" />
     </td>
   </tr>
 </table>
 
-<!-- ================= PROFILE + TYPING ================= -->
-<table align="center" width="100%" style="border: none;">
-<tr>
-<td align="center" width="30%" valign="middle" style="border: none;">
-  <a href="https://sahilcodelab.vercel.app/">
-    <img src="https://sahilcodelab.vercel.app/assets/profile_pic-BXm1KLB7.jpg" width="160" height="160" style="border-radius: 50%; border: 4px solid #00d2ff; padding: 4px; box-shadow: 0 0 40px rgba(0,210,255,0.3);" alt="Sahil Raza" />
-  </a>
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&amp;weight=700&amp;size=18&amp;pause=700&amp;color=00D2FF&amp;center=true&amp;vCenter=true&amp;width=300&amp;height=30&amp;lines=SahilCodeLab+%F0%9F%9A%80;Building+the+Future" alt="Typing" />
-</td>
-<td align="center" width="70%" valign="middle" style="border: none;">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&amp;weight=700&amp;size=28&amp;pause=800&amp;color=00D2FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=50&amp;lines=Hi+there%2C+I'm+Sahil+%F0%9F%91%8B;Flutter+%26+Android+Engineer+%F0%9F%93%B1;Full+Stack+Developer+%F0%9F%92%BB;Building+Aura+Notes+%26+Pocket+ID+%F0%9F%94%90;4%2B+Years+of+Building+%F0%9F%9A%80" alt="Typing Header" />
-  <br/><br/>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&amp;weight=500&amp;size=16&amp;pause=1000&amp;color=9CA3AF&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=60&amp;lines=Building+Cross-Platform+Apps+with+Flutter;Architecting+Secure+Android+Apps;Creating+Pocket+ID+-+Encrypted+Vault;Building+Aura+Notes+-+Smart+Note+Taking" alt="Terminal Intel" />
-</td>
-</tr>
+<!-- ================= INTRO & AVATAR ================= -->
+<table align="center" width="100%" style="border: none; border-collapse: collapse;">
+  <tr>
+    <td align="center" width="35%" valign="middle" style="border: none; padding: 20px;">
+      <a href="https://sahilcodelab.vercel.app/">
+        <img src="https://sahilcodelab.vercel.app/assets/profile_pic-BXm1KLB7.jpg" width="160" height="160" style="border-radius: 50%; border: 4px solid #00d2ff; padding: 4px; box-shadow: 0 0 30px rgba(0, 210, 255, 0.4); transition: transform 0.3s ease-in-out;" alt="Sahil Raza Avatar" />
+      </a>
+      <br/><br/>
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Outfit&weight=600&size=18&pause=800&color=00D2FF&center=true&vCenter=true&width=300&height=35&lines=SahilCodeLab+%F0%9F%9A%80;Building+the+Future%E2%9C%A8;Innovating+Cross-Platform%F0%9F%92%BC" alt="Profile Typing" />
+    </td>
+    <td align="left" width="65%" valign="middle" style="border: none; padding: 20px; line-height: 1.6;">
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=24&pause=1000&color=00D2FF&center=false&vCenter=true&width=500&height=40&lines=Hi+there,+I'm+Sahil+%F0%9F%91%8B;Flutter+%26+Android+Engineer+%F0%9F%93%B1;Full-Stack+Web+Developer+%F0%9F%92%BB;Building+Secure+Offline+Vaults+%F0%9F%94%90" alt="Intro Typing" />
+      <p style="font-size: 1.05em; color: #e5e7eb; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+        A passionate software engineer specializing in high-performance cross-platform applications, robust security, and seamless full-stack architectures. With 4+ years of building experiences, I strive to create impactful digital products with clean, maintainable code.
+      </p>
+      <div style="margin-top: 15px;">
+        <a href="https://sahilcodelab.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%9A%80_Live_Portfolio-sahilcodelab.vercel.app-00d2ff?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
+        <a href="mailto:sahilrazamca@gmail.com"><img src="https://img.shields.io/badge/Email_Me-sahilrazamca%40gmail.com-0070f3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+      </div>
+    </td>
+  </tr>
 </table>
 
-<!-- ================= BADGE STRIP ================= -->
+<!-- ================= BADGES ================= -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&amp;logo=dart&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&amp;logo=android&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Experience-4%2B_Years-0070f3?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=SahilCodeLab&amp;label=Profile%20Views&amp;color=00d2ff&amp;style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Experience-4%2B_Years-0070f3?style=for-the-badge" alt="Experience" />
+  <img src="https://komarev.com/ghpvc/?username=SahilCodeLab&label=Profile%20Views&color=00d2ff&style=for-the-badge" alt="Views" />
 </p>
 
 <p align="center">
-  <a href="https://sahilcodelab.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%9A%80_LIVE_PORTFOLIO-SAHILCODELAB.VERCEL.APP-00d2ff?style=flat-square&amp;logo=vercel&amp;logoColor=black" /></a>
+  <img width="550" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Animation" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" />
 </p>
 
-<!-- ================= CODING ANIMATION ================= -->
-<p align="center">
-  <img width="450" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding animation" />
-</p>
+---
+
+<!-- ================= APP LOGO SHOWCASE ================= -->
+### <img src="https://api.iconify.design/svg-spinners:blocks-wave.svg?color=%2300d2ff" width="22" height="22" valign="middle" /> 📱 Flagship App Showcase
+
+<table align="center" width="100%" style="border-collapse: collapse; border: none; text-align: center;">
+  <tr>
+    <td width="25%" align="center" style="border: none; padding: 10px;">
+      <img src="https://sahilcodelab.vercel.app/assets/pocketid_logo-BXvWDhfA.png" width="90" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,210,255,0.25);" alt="Pocket ID Logo" />
+      <h3 style="color: #00d2ff; margin: 10px 0 2px 0;">Pocket ID</h3>
+      <code style="font-size: 0.8em; color: #8b949e;">Credentials Vault</code>
+    </td>
+    <td width="25%" align="center" style="border: none; padding: 10px;">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcIkH45j4naHJg0_UrkttWaZXZfQqLtmmneqHClHD6Tg&amp;s" width="90" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(0,112,243,0.25);" alt="Aura Notes Logo" />
+      <h3 style="color: #0070f3; margin: 10px 0 2px 0;">Aura Notes</h3>
+      <code style="font-size: 0.8em; color: #8b949e;">AI Smart Notes</code>
+    </td>
+    <td width="25%" align="center" style="border: none; padding: 10px;">
+      <img src="warpify_logo.png" width="90" height="90" style="border-radius: 20px; object-fit: cover; box-shadow: 0 8px 16px rgba(245,74,42,0.25);" alt="Warpify Logo" />
+      <h3 style="color: #f54a2a; margin: 10px 0 2px 0;">Warpify</h3>
+      <code style="font-size: 0.8em; color: #8b949e;">Web-to-App Shell</code>
+    </td>
+    <td width="25%" align="center" style="border: none; padding: 10px;">
+      <img src="masterdex_logo.png" width="90" style="border-radius: 20px; box-shadow: 0 8px 16px rgba(16,185,129,0.25);" alt="Master Dex Logo" />
+      <h3 style="color: #10b981; margin: 10px 0 2px 0;">Master Dex</h3>
+      <code style="font-size: 0.8em; color: #8b949e;">Encyclopedia</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
 <!-- ================= TECH MARQUEE ================= -->
-### <img src="https://api.iconify.design/svg-spinners:bars-rotate-fade.svg?color=%2300d2ff" width="22" height="22" valign="middle" /> Tech Arsenal — Live Scroll
+### <img src="https://api.iconify.design/svg-spinners:bars-rotate-fade.svg?color=%2300d2ff" width="22" height="22" valign="middle" /> Core Tech Stack & Tools
 
 <p align="center">
-<svg width="100%" height="80" viewBox="0 0 1000 80" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <clipPath id="marqueeClip"><rect x="0" y="0" width="1000" height="80" rx="16" /></clipPath>
-    <linearGradient id="fadeMask2" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="white" stop-opacity="0"/>
-      <stop offset="8%" stop-color="white" stop-opacity="1"/>
-      <stop offset="92%" stop-color="white" stop-opacity="1"/>
-      <stop offset="100%" stop-color="white" stop-opacity="0"/>
-    </linearGradient>
-    <mask id="edgeFade2"><rect x="0" y="0" width="1000" height="80" fill="url(#fadeMask2)" /></mask>
-  </defs>
-  <rect x="0" y="0" width="1000" height="80" rx="16" fill="#111827" />
-  <g mask="url(#edgeFade2)">
-    <g clip-path="url(#marqueeClip)">
-      <g>
-        <animateTransform attributeName="transform" type="translate" from="20 0" to="-1400 0" dur="25s" repeatCount="indefinite" />
-        <image href="https://skillicons.dev/icons?i=flutter" x="0" y="14" width="52" height="52"/>
-        <image href="https://skillicons.dev/icons?i=dart" x="76" y="14" width="52" height="52"/>
-        <image href="https://skillicons.dev/icons?i=kotlin" x="152" y="14" width="52" height="52"/>
-        <image href="https://skillicons.dev/icons?i=androidstudio" x="228" y="14" width="52" height="52"/>
-        <image href="https://skillicons.dev/icons?i=react" x="304" y="14" width="52" height="52"/>
-        <image href="https://skillicons.dev/icons?i=nextjs" x="380" y="14" width="52" height="52"/>
-        <image href="https://skillicons.dev/icons?i=tailwind" x="456" y="14" width="52" height="52"/>
-        <image href="https://skillicons.dev/icons?i=js" x="532" y="14" width="52" height="52"/>
-        <image href="https://skillicons.dev/icons?i=ts" x="608" y="14" width="52" height="52"/>
-        <image href="https://skillicons.dev/icons?i=nodejs" x="684" y="14" width="52" height="52"/>
-        <image href="https://skillicons.dev/icons?i=express" x="760" y="14" width="52" height="52"/>
-        <image href="https://skillicons.dev/icons?i=mongodb" x="836" y="14" width="52" height="52"/>
-        <image href="https://skillicons.dev/icons?i=postgres" x="912" y="14" width="52" height="52"/>
-        <image href="https://skillicons.dev/icons?i=firebase" x="988" y="14" width="52" height="52"/>
-        <image href="https://skillicons.dev/icons?i=figma" x="1064" y="14" width="52" height="52"/>
-        <image href="https://skillicons.dev/icons?i=git" x="1140" y="14" width="52" height="52"/>
-        <image href="https://skillicons.dev/icons?i=postman" x="1216" y="14" width="52" height="52"/>
-        <image href="https://skillicons.dev/icons?i=vercel" x="1292" y="14" width="52" height="52"/>
-        <image href="https://skillicons.dev/icons?i=flutter" x="1368" y="14" width="52" height="52"/>
-        <image href="https://skillicons.dev/icons?i=dart" x="1444" y="14" width="52" height="52"/>
-        <image href="https://skillicons.dev/icons?i=kotlin" x="1520" y="14" width="52" height="52"/>
-        <image href="https://skillicons.dev/icons?i=androidstudio" x="1596" y="14" width="52" height="52"/>
-        <image href="https://skillicons.dev/icons?i=react" x="1672" y="14" width="52" height="52"/>
-        <image href="https://skillicons.dev/icons?i=nextjs" x="1748" y="14" width="52" height="52"/>
-        <image href="https://skillicons.dev/icons?i=tailwind" x="1824" y="14" width="52" height="52"/>
-        <image href="https://skillicons.dev/icons?i=js" x="1900" y="14" width="52" height="52"/>
-        <image href="https://skillicons.dev/icons?i=ts" x="1976" y="14" width="52" height="52"/>
-        <image href="https://skillicons.dev/icons?i=nodejs" x="2052" y="14" width="52" height="52"/>
-        <image href="https://skillicons.dev/icons?i=express" x="2128" y="14" width="52" height="52"/>
-        <image href="https://skillicons.dev/icons?i=mongodb" x="2204" y="14" width="52" height="52"/>
-        <image href="https://skillicons.dev/icons?i=postgres" x="2280" y="14" width="52" height="52"/>
-        <image href="https://skillicons.dev/icons?i=firebase" x="2356" y="14" width="52" height="52"/>
-        <image href="https://skillicons.dev/icons?i=figma" x="2432" y="14" width="52" height="52"/>
-        <image href="https://skillicons.dev/icons?i=git" x="2508" y="14" width="52" height="52"/>
-        <image href="https://skillicons.dev/icons?i=postman" x="2584" y="14" width="52" height="52"/>
-        <image href="https://skillicons.dev/icons?i=vercel" x="2660" y="14" width="52" height="52"/>
-      </g>
-    </g>
-  </g>
-</svg>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:111827,100:0A101F&amp;height=2" />
-
----
-
-<!-- ================= ANIMATED STATS COUNTER ================= -->
-### <img src="https://api.iconify.design/svg-spinners:pulse.svg?color=%2300d2ff" width="22" height="22" valign="middle" /> 📊 GitHub Analytics (Live Data)
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SahilCodeLab&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=111827&amp;title_color=00d2ff&amp;text_color=9ca3af&amp;icon_color=00d2ff&amp;count_private=true&amp;include_all_commits=true" width="49%" alt="Core Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SahilCodeLab&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=111827&amp;title_color=00d2ff&amp;text_color=9ca3af&amp;langs_count=8" width="45%" alt="Top Langs" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,react,nextjs,tailwind,js,ts,nodejs,express,mongodb,postgres,firebase,figma,git,postman,vercel&perline=9" alt="SahilCodeLab Tech Stack" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SahilCodeLab&amp;theme=tokyonight&amp;bg_color=111827&amp;color=00d2ff&amp;line=0070f3&amp;point=9ca3af&amp;area=true&amp;hide_border=true" width="100%" alt="Activity Wave" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilCodeLab&amp;theme=tokyonight&amp;hide_border=true&amp;background=111827&amp;stroke=00d2ff&amp;ring=0070f3&amp;fire=00d2ff&amp;currStreakLabel=00d2ff" width="100%" alt="Streak" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-95%25-00d2ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/Security_Enforced-100%25-0070f3?style=flat-square" />
+  <img src="https://img.shields.io/badge/Local_First_DBs-90%25-3ddc84?style=flat-square" />
 </p>
 
 ---
 
-<!-- ================= SKILL PROGRESS BARS ================= -->
-### <img src="https://api.iconify.design/svg-spinners:bars-scale-middle.svg?color=%2300d2ff" width="22" height="22" valign="middle" /> 📈 Skill Proficiency
+<!-- ================= METRICS & ANALYTICS ================= -->
+### <img src="https://api.iconify.design/svg-spinners:pulse.svg?color=%2300d2ff" width="22" height="22" valign="middle" /> GitHub Analytics (Live Data)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-90%25-02569B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Dart-85%25-0175C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kotlin-75%25-7F52FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React-80%25-61DAFB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Next.js-75%25-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Node.js-80%25-43853D?style=for-the-badge" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SahilCodeLab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=c9d1d9&icon_color=00d2ff&count_private=true&include_all_commits=true" width="49%" alt="Core Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SahilCodeLab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=c9d1d9&langs_count=8" width="45%" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SahilCodeLab&theme=tokyonight&bg_color=0d1117&color=00d2ff&line=0070f3&point=c9d1d9&area=true&hide_border=true" width="100%" alt="Activity Wave" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilCodeLab&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d2ff&ring=0070f3&fire=00d2ff&currStreakLabel=00d2ff" width="100%" alt="Streak" />
 </p>
 
 ---
 
 <!-- ================= FLAGSHIP PROJECTS ================= -->
-### <img src="https://api.iconify.design/svg-spinners:blocks-wave.svg?color=%2300d2ff" width="22" height="22" valign="middle" /> 🚀 Flagship Projects
+### <img src="https://api.iconify.design/svg-spinners:blocks-wave.svg?color=%2300d2ff" width="22" height="22" valign="middle" /> Featured Projects
 
-<table align="center" width="100%" style="border-collapse: separate; border-spacing: 0 12px;">
+<table align="center" width="100%" style="border-collapse: separate; border-spacing: 0 12px; border: none;">
   <tr>
-    <td width="50%" valign="top" style="background: #111827; border-radius: 16px; padding: 16px; border: 1px solid #00d2ff20;">
-      <table style="border: none;">
+    <td width="50%" valign="top" style="background: #0d1117; border-radius: 12px; padding: 18px; border: 1px solid #30363d;">
+      <table style="border: none; width: 100%;">
         <tr>
-          <td width="25%" align="center" style="border: none;">
-            <img src="https://sahilcodelab.vercel.app/assets/pocketid_logo-BXvWDhfA.png" width="70" alt="Pocket ID" />
+          <td width="20%" align="center" style="border: none;">
+            <img src="https://sahilcodelab.vercel.app/assets/pocketid_logo-BXvWDhfA.png" width="60" style="border-radius: 12px;" alt="Pocket ID" />
           </td>
-          <td width="75%" style="border: none; padding-left: 8px;">
-            <h4 style="color: #00d2ff; margin: 0 0 4px 0;">🔐 Pocket ID</h4>
-            <p style="color: #9ca3af; margin: 0; font-size: 0.85em;">Encrypted Vault</p>
+          <td width="80%" style="border: none; padding-left: 12px;">
+            <h4 style="color: #00d2ff; margin: 0 0 4px 0; font-size: 1.1em;">🔐 Pocket ID</h4>
+            <p style="color: #8b949e; margin: 0; font-size: 0.85em;">Offline Encrypted Personal Vault</p>
           </td>
         </tr>
       </table>
-      <p style="color: #9ca3af; font-size: 0.9em; margin: 8px 0 0 0;">Secure offline-first digital vault with AES-256 encryption.</p>
-      <p style="margin: 8px 0 0 0;">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&amp;logo=flutter&amp;logoColor=white" />
-        <img src="https://img.shields.io/badge/Status-Live-00d2ff?style=flat-square" />
-      </p>
-      <p style="margin: 8px 0 0 0;">
-        <a href="#"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&amp;logo=google-play&amp;logoColor=white" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&amp;logo=app-store&amp;logoColor=white" /></a>
-      </p>
+      <p style="color: #8b949e; font-size: 0.9em; margin: 12px 0 12px 0; min-height: 40px;">Secure offline-first digital credentials vault powered by AES-256 local-first database encryption.</p>
+      <div style="margin-bottom: 12px;">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Status-Live-10b981?style=flat-square" />
+      </div>
+      <div>
+        <a href="#"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" /></a>
+      </div>
     </td>
-    <td width="50%" valign="top" style="background: #111827; border-radius: 16px; padding: 16px; border: 1px solid #00d2ff20;">
-      <table style="border: none;">
+    <td width="50%" valign="top" style="background: #0d1117; border-radius: 12px; padding: 18px; border: 1px solid #30363d;">
+      <table style="border: none; width: 100%;">
         <tr>
-          <td width="25%" align="center" style="border: none;">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcIkH45j4naHJg0_UrkttWaZXZfQqLtmmneqHClHD6Tg&amp;s" width="70" alt="Aura Notes" />
+          <td width="20%" align="center" style="border: none;">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcIkH45j4naHJg0_UrkttWaZXZfQqLtmmneqHClHD6Tg&amp;s" width="60" style="border-radius: 12px;" alt="Aura Notes" />
           </td>
-          <td width="75%" style="border: none; padding-left: 8px;">
-            <h4 style="color: #00d2ff; margin: 0 0 4px 0;">📝 Aura Notes</h4>
-            <p style="color: #9ca3af; margin: 0; font-size: 0.85em;">Smart Notes</p>
+          <td width="80%" style="border: none; padding-left: 12px;">
+            <h4 style="color: #00d2ff; margin: 0 0 4px 0; font-size: 1.1em;">📝 Aura Notes</h4>
+            <p style="color: #8b949e; margin: 0; font-size: 0.85em;">AI-Powered Smart Notes</p>
           </td>
         </tr>
       </table>
-      <p style="color: #9ca3af; font-size: 0.9em; margin: 8px 0 0 0;">AI-powered note-taking with rich text and seamless sync.</p>
-      <p style="margin: 8px 0 0 0;">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&amp;logo=flutter&amp;logoColor=white" />
-        <img src="https://img.shields.io/badge/Status-Development-0070f3?style=flat-square" />
-      </p>
-      <p style="margin: 8px 0 0 0;">
-        <a href="#"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&amp;logo=google-play&amp;logoColor=white" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&amp;logo=app-store&amp;logoColor=white" /></a>
-      </p>
+      <p style="color: #8b949e; font-size: 0.9em; margin: 12px 0 12px 0; min-height: 40px;">Contextual AI note-taking app featuring rich-text formatting, tags organization, and cloud backup.</p>
+      <div style="margin-bottom: 12px;">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/Status-Beta-3b82f6?style=flat-square" />
+      </div>
+      <div>
+        <a href="#"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+      </div>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top" style="background: #111827; border-radius: 16px; padding: 16px; border: 1px solid #00d2ff20;">
-      <h4 style="color: #00d2ff; margin: 0 0 4px 0;">📚 Master Dex</h4>
-      <p style="color: #9ca3af; font-size: 0.9em; margin: 0;">Encyclopedia with glassmorphic UI and real-time search.</p>
-      <p style="margin: 8px 0 0 0;">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&amp;logo=flutter&amp;logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&amp;logo=firebase&amp;logoColor=black" />
-        <img src="https://img.shields.io/badge/Status-Live-00d2ff?style=flat-square" />
-      </p>
+    <td width="50%" valign="top" style="background: #0d1117; border-radius: 12px; padding: 18px; border: 1px solid #30363d;">
+      <table style="border: none; width: 100%;">
+        <tr>
+          <td width="20%" align="center" style="border: none;">
+            <img src="masterdex_logo.png" width="60" style="border-radius: 12px;" alt="Master Dex" />
+          </td>
+          <td width="80%" style="border: none; padding-left: 12px;">
+            <h4 style="color: #00d2ff; margin: 0 0 4px 0; font-size: 1.1em;">📚 Master Dex</h4>
+            <p style="color: #8b949e; margin: 0; font-size: 0.85em;">Glassmorphic Encyclopedia App</p>
+          </td>
+        </tr>
+      </table>
+      <p style="color: #8b949e; font-size: 0.9em; margin: 12px 0 12px 0; min-height: 40px;">Stunning glassmorphic catalog with lightning-fast local cache searching and real-time database sync.</p>
+      <div>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/Status-Live-10b981?style=flat-square" />
+      </div>
     </td>
-    <td width="50%" valign="top" style="background: #111827; border-radius: 16px; padding: 16px; border: 1px solid #00d2ff20;">
-      <h4 style="color: #00d2ff; margin: 0 0 4px 0;">💳 PayFlow</h4>
-      <p style="color: #9ca3af; font-size: 0.9em; margin: 0;">Seamless payment gateway with multi-provider support.</p>
-      <p style="margin: 8px 0 0 0;">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" />
-        <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&amp;logo=stripe&amp;logoColor=white" />
-        <img src="https://img.shields.io/badge/Status-Development-0070f3?style=flat-square" />
-      </p>
+    <td width="50%" valign="top" style="background: #0d1117; border-radius: 12px; padding: 18px; border: 1px solid #30363d;">
+      <table style="border: none; width: 100%;">
+        <tr>
+          <td width="20%" align="center" style="border: none;">
+            <img src="warpify_logo.png" width="60" style="border-radius: 12px; object-fit: cover;" alt="Warpify" />
+          </td>
+          <td width="80%" style="border: none; padding-left: 12px;">
+            <h4 style="color: #00d2ff; margin: 0 0 4px 0; font-size: 1.1em;">🚀 Warpify</h4>
+            <p style="color: #8b949e; margin: 0; font-size: 0.85em;">Web-to-App Wrapper Shell</p>
+          </td>
+        </tr>
+      </table>
+      <p style="color: #8b949e; font-size: 0.9em; margin: 12px 0 12px 0; min-height: 40px;">Advanced wrapper that converts responsive web layouts into native App Store & Play Store shells.</p>
+      <div style="margin-bottom: 12px;">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white" />
+        <img src="https://img.shields.io/badge/Status-Live-10b981?style=flat-square" />
+      </div>
+      <div>
+        <a href="#"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" /></a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="background: #0d1117; border-radius: 12px; padding: 18px; border: 1px solid #30363d;">
+      <table style="border: none; width: 100%;">
+        <tr>
+          <td width="20%" align="center" style="border: none;">
+            <span style="font-size: 2.2em;">💳</span>
+          </td>
+          <td width="80%" style="border: none; padding-left: 12px;">
+            <h4 style="color: #00d2ff; margin: 0 0 4px 0; font-size: 1.1em;">PayFlow</h4>
+            <p style="color: #8b949e; margin: 0; font-size: 0.85em;">Multi-Provider Payment Gateway</p>
+          </td>
+        </tr>
+      </table>
+      <p style="color: #8b949e; font-size: 0.9em; margin: 12px 0 12px 0; min-height: 40px;">Unified API platform integration for secure payment processing with modern developer dashboard.</p>
+      <div>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" />
+        <img src="https://img.shields.io/badge/Status-Beta-3b82f6?style=flat-square" />
+      </div>
+    </td>
+    <td width="50%" valign="top" style="background: #0d1117; border-radius: 12px; padding: 18px; border: 1px solid #30363d;">
+      <table style="border: none; width: 100%;">
+        <tr>
+          <td width="20%" align="center" style="border: none;">
+            <img src="google%20bussines%20qr.png" width="50" style="border-radius: 6px;" alt="QR Connect" />
+          </td>
+          <td width="80%" style="border: none; padding-left: 12px;">
+            <h4 style="color: #00d2ff; margin: 0 0 4px 0; font-size: 1.1em;">🤝 Connect Business</h4>
+            <p style="color: #8b949e; margin: 0; font-size: 0.85em;">SahilCodeLab Business QR</p>
+          </td>
+        </tr>
+      </table>
+      <p style="color: #8b949e; font-size: 0.9em; margin: 12px 0 12px 0; min-height: 40px;">Scan or click to view my verified Google Business profile, customer reviews, and services.</p>
+      <div>
+        <a href="https://sahilcodelab.vercel.app/"><img src="https://img.shields.io/badge/Google-Business-4285F4?style=flat-square&logo=google&logoColor=white" /></a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<!-- ================= WARPIFY PREVIEW ================= -->
+<p align="center">
+  <br/>
+  <b>📱 Warpify App Store Interface Preview</b><br/><br/>
+  <img src="warpify%20App%20Store%20screenshot.png" width="340" style="border-radius: 16px; border: 2px solid #30363d; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" alt="Warpify App Store Screenshot" />
+</p>
+
+---
+
+<!-- ================= 10+ ARCHITECTURAL FEATURES ================= -->
+### <img src="https://api.iconify.design/svg-spinners:blocks-shuffle-3.svg?color=%2300d2ff" width="22" height="22" valign="middle" /> ⚡ 10+ Core Capabilities & Architectural Highlights
+1. **Offline-First Application Architecture:** Implementing robust offline-first synchronization workflows with SQLite, Hive, and local databases.
+2. **End-to-End Database Encryption:** Hardening local data storage with advanced AES-256 SQLCipher encryption.
+3. **Advanced State Management:** Clean implementations of Bloc/Cubit, Riverpod, and Provider state management patterns.
+4. **Cross-Platform Native wrappers (Warpify):** Expert experience packaging custom web views into highly optimized native wrappers.
+5. **Contextual AI Integrations:** Integrating smart AI LLMs (like Google Gemini API) inside native cross-platform mobile apps.
+6. **Multi-Provider Payments Orchestration:** Building payment gateways with Stripe, Razorpay, and unified APIs.
+7. **Production DevOps & CI/CD Pipelines:** Automated workflows using GitHub Actions, CodeMagic, and Fastlane for instant releases.
+8. **Pixel-Perfect Responsive Layouts:** Converting high-fidelity Figma designs into fluid cross-platform screens.
+9. **Full-Stack Next.js Dashboards:** Architecting secure and ultra-fast web admin panels using TailwindCSS.
+10. **High-Performance Restful APIs:** Developing low-latency API backend microservices with Node.js and Express.
+11. **Real-time Synchronization Engines:** Designing real-time database sync logic using Firebase Firestore and PostgreSQL listeners.
+
+---
+
+<!-- ================= SKILL SUMMARY ================= -->
+### <img src="https://api.iconify.design/svg-spinners:bars-scale-middle.svg?color=%2300d2ff" width="22" height="22" valign="middle" /> Technical Arsenal & Levels
+
+<table align="center" width="100%" style="border: none; border-collapse: collapse;">
+  <tr>
+    <td align="left" width="25%" valign="top" style="background: #0d1117; border-radius: 12px; padding: 16px; border: 1px solid #30363d;">
+      <h4 style="color: #00d2ff; border-bottom: 2px solid #00d2ff; padding-bottom: 6px; margin-top: 0;">📱 Mobile Stack</h4>
+      <p style="margin: 6px 0;"><b>Flutter</b> (95%)</p>
+      <p style="margin: 6px 0;"><b>Dart</b> (90%)</p>
+      <p style="margin: 6px 0;"><b>Kotlin</b> (75%)</p>
+      <p style="margin: 6px 0;"><b>Android SDK</b> (80%)</p>
+    </td>
+    <td align="left" width="25%" valign="top" style="background: #0d1117; border-radius: 12px; padding: 16px; border: 1px solid #30363d; margin-left: 10px;">
+      <h4 style="color: #0070f3; border-bottom: 2px solid #0070f3; padding-bottom: 6px; margin-top: 0;">🌐 Web Frontend</h4>
+      <p style="margin: 6px 0;"><b>React</b> (80%)</p>
+      <p style="margin: 6px 0;"><b>Next.js</b> (75%)</p>
+      <p style="margin: 6px 0;"><b>TailwindCSS</b> (90%)</p>
+      <p style="margin: 6px 0;"><b>TypeScript</b> (80%)</p>
+    </td>
+    <td align="left" width="25%" valign="top" style="background: #0d1117; border-radius: 12px; padding: 16px; border: 1px solid #30363d; margin-left: 10px;">
+      <h4 style="color: #3ddc84; border-bottom: 2px solid #3ddc84; padding-bottom: 6px; margin-top: 0;">⚡ Backend Stack</h4>
+      <p style="margin: 6px 0;"><b>Node.js</b> (80%)</p>
+      <p style="margin: 6px 0;"><b>Express.js</b> (85%)</p>
+      <p style="margin: 6px 0;"><b>PostgreSQL</b> (75%)</p>
+      <p style="margin: 6px 0;"><b>MongoDB</b> (80%)</p>
+    </td>
+    <td align="left" width="25%" valign="top" style="background: #0d1117; border-radius: 12px; padding: 16px; border: 1px solid #30363d; margin-left: 10px;">
+      <h4 style="color: #7f52ff; border-bottom: 2px solid #7f52ff; padding-bottom: 6px; margin-top: 0;">☁️ Platforms & Ops</h4>
+      <p style="margin: 6px 0;"><b>Firebase</b> (85%)</p>
+      <p style="margin: 6px 0;"><b>Git & CI/CD</b> (85%)</p>
+      <p style="margin: 6px 0;"><b>Docker</b> (65%)</p>
+      <p style="margin: 6px 0;"><b>Figma</b> (70%)</p>
     </td>
   </tr>
 </table>
 
 ---
 
-<!-- ================= CONTRIBUTION SNAKE ================= -->
-### <img src="https://api.iconify.design/svg-spinners:bars-scale-middle.svg?color=%2300d2ff" width="22" height="22" valign="middle" /> 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SahilCodeLab/SahilCodeLab/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SahilCodeLab/SahilCodeLab/output/github-contribution-grid-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/SahilCodeLab/SahilCodeLab/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-</p>
-
-> ⚠️ **Note:** Snake tabhi dikhegi jab aapne GitHub Action run kiya ho aur `output` branch create ho gayi ho.
-
----
-
-<!-- ================= TROPHIES ================= -->
-### <img src="https://api.iconify.design/svg-spinners:ring-resize.svg?color=%2300d2ff" width="22" height="22" valign="middle" /> 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SahilCodeLab&amp;theme=tokyonight&amp;column=5&amp;margin-w=15&amp;margin-h=15&amp;no-bg=true&amp;no-frame=true" alt="Trophies" />
-  </a>
-</p>
-
----
-
-<!-- ================= WAKATIME STATS ================= -->
-### <img src="https://api.iconify.design/svg-spinners:clock.svg?color=%2300d2ff" width="22" height="22" valign="middle" /> ⏰ Coding Activity (Weekly)
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=SahilCodeLab&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=111827&amp;title_color=00d2ff&amp;text_color=9ca3af" width="80%" alt="Wakatime Stats" />
-</p>
-
----
-
-<!-- ================= DISCORD PRESENCE ================= -->
-### <img src="https://api.iconify.design/svg-spinners:dots-wave.svg?color=%2300d2ff" width="22" height="22" valign="middle" /> 🎮 Discord Presence
-
-<p align="center">
-  <img src="https://lanyard.kyrie25.me/api/76561198000000000?bg=111827&amp;borderRadius=10px&amp;idleMessage=Building%20the%20Future..." width="80%" alt="Discord Presence" />
-</p>
-
----
-
-<!-- ================= SPOTIFY PLAYING ================= -->
-### <img src="https://api.iconify.design/svg-spinners:dots-wave.svg?color=%2300d2ff" width="22" height="22" valign="middle" /> 🎵 Now Playing on Spotify
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&amp;cover_image=true&amp;theme=novatorem" width="80%" alt="Spotify" />
-</p>
-
----
-
-<!-- ================= BLOG / DEV.TO POSTS ================= -->
-### <img src="https://api.iconify.design/svg-spinners:blocks-shuffle-3.svg?color=%2300d2ff" width="22" height="22" valign="middle" /> ✍️ Latest Blog Posts
-
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Blog-Post%201-00d2ff?style=for-the-badge" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Blog-Post%202-0070f3?style=for-the-badge" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Blog-Post%203-0A101F?style=for-the-badge" />
-  </a>
-</p>
-
----
-
-<!-- ================= YOUTUBE VIDEOS ================= -->
-### <img src="https://api.iconify.design/svg-spinners:blocks-wave.svg?color=%2300d2ff" width="22" height="22" valign="middle" /> 📺 Latest YouTube Videos
-
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/YouTube-Video%201-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/YouTube-Video%202-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/YouTube-Video%203-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" />
-  </a>
-</p>
-
----
-
-<!-- ================= SUPPORT ME ================= -->
-### <img src="https://api.iconify.design/svg-spinners:hearts.svg?color=%2300d2ff" width="22" height="22" valign="middle" /> ❤️ Support Me
-
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&amp;logo=buy-me-a-coffee&amp;logoColor=black" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&amp;logo=patreon&amp;logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&amp;logo=ko-fi&amp;logoColor=white" />
-  </a>
-</p>
-
----
-
-<!-- ================= RANDOM QUOTE ================= -->
-### <img src="https://api.iconify.design/svg-spinners:bouncing-ball.svg?color=%2300d2ff" width="22" height="22" valign="middle" /> 💡 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" alt="quote" />
-</p>
-
----
-
-<!-- ================= TECH STACK DETAILED ================= -->
-### <img src="https://api.iconify.design/svg-spinners:blocks-shuffle-3.svg?color=%2300d2ff" width="22" height="22" valign="middle" /> 🛠️ Tech Stack
-
+<!-- ================= CONTRIBUTION SNAKE & TROPHIES ================= -->
 <table align="center" width="100%" style="border: none;">
   <tr>
-    <td align="left" width="25%" valign="top" style="background: #111827; border-radius: 12px; padding: 12px; border: 1px solid #00d2ff10;">
-      <h4>📱 Mobile</h4>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&amp;logo=dart&amp;logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&amp;logo=android&amp;logoColor=white" />
+    <td width="50%" valign="top" style="border: none;">
+      <h3><img src="https://api.iconify.design/svg-spinners:bars-scale-middle.svg?color=%2300d2ff" width="22" height="22" valign="middle" /> 🐍 Contribution Snake</h3>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SahilCodeLab/SahilCodeLab/output/github-contribution-grid-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SahilCodeLab/SahilCodeLab/output/github-contribution-grid-snake.svg" />
+        <img alt="snake animation" src="https://raw.githubusercontent.com/SahilCodeLab/SahilCodeLab/output/github-contribution-grid-snake.svg" width="100%" />
+      </picture>
     </td>
-    <td align="left" width="25%" valign="top" style="background: #111827; border-radius: 12px; padding: 12px; border: 1px solid #00d2ff10;">
-      <h4>🌐 Web</h4>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" /><br/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" />
-    </td>
-    <td align="left" width="25%" valign="top" style="background: #111827; border-radius: 12px; padding: 12px; border: 1px solid #00d2ff10;">
-      <h4>⚡ Backend</h4>
-      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" />
-    </td>
-    <td align="left" width="25%" valign="top" style="background: #111827; border-radius: 12px; padding: 12px; border: 1px solid #00d2ff10;">
-      <h4>☁️ Cloud &amp; Tools</h4>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&amp;logo=firebase&amp;logoColor=black" /><br/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" />
+    <td width="50%" valign="top" style="border: none;">
+      <h3><img src="https://api.iconify.design/svg-spinners:ring-resize.svg?color=%2300d2ff" width="22" height="22" valign="middle" /> 🏆 GitHub Trophies</h3>
+      <p align="center">
+        <a href="https://github.com/ryo-ma/github-profile-trophy">
+          <img src="https://github-profile-trophy.vercel.app/?username=SahilCodeLab&theme=radical&margin-w=15&margin-h=15" width="100%" alt="Trophies" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-<!-- ================= VERSION BADGE ================= -->
+<!-- ================= CODING ACTIVITY (WAKATIME & DISCORD) ================= -->
+<table align="center" width="100%" style="border: none;">
+  <tr>
+    <td width="50%" valign="top" style="border: none;">
+      <h3><img src="https://api.iconify.design/svg-spinners:clock.svg?color=%2300d2ff" width="22" height="22" valign="middle" /> ⏰ Weekly Coding Stats</h3>
+      <p align="center">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=SahilCodeLab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=c9d1d9" width="100%" alt="Wakatime Stats" />
+      </p>
+    </td>
+    <td width="50%" valign="top" style="border: none;">
+      <h3><img src="https://api.iconify.design/svg-spinners:dots-wave.svg?color=%2300d2ff" width="22" height="22" valign="middle" /> 🎮 Discord Presence</h3>
+      <p align="center">
+        <!-- Make sure to replace with your real Discord User ID if needed -->
+        <img src="https://lanyard.kyrie25.me/api/76561198000000000?bg=0d1117&borderRadius=10px&idleMessage=Building%20the%20Future..." width="100%" alt="Discord Presence" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ================= SPOTIFY NOW PLAYING ================= -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-2.0.0-00d2ff?style=flat-square" />
-  <img src="https://img.shields.io/badge/Profile_Complete-100%25-10B981?style=flat-square" />
-  <img src="https://img.shields.io/badge/Made_with-Love-FF1493?style=flat-square" />
+  <b>🎵 Now Playing on Spotify</b><br/>
+  <!-- Replace YOUR_SPOTIFY_ID with your real Spotify User ID if you want this active -->
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem" width="600" alt="Spotify Live Playing" />
 </p>
 
 ---
 
-<!-- ================= SOCIAL CONNECT ================= -->
-### <img src="https://api.iconify.design/svg-spinners:tadpole.svg?color=%2300d2ff" width="22" height="22" valign="middle" /> 🔗 Connect With Me
+<!-- ================= DEV QUOTE & SUPPORT ================= -->
+<table align="center" width="100%" style="border: none;">
+  <tr>
+    <td width="60%" valign="middle" style="border: none;">
+      <p align="center">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Developer Quote" />
+      </p>
+    </td>
+    <td width="40%" valign="middle" style="border: none; padding-left: 20px;">
+      <h3 style="margin-top: 0;"><img src="https://api.iconify.design/svg-spinners:hearts.svg?color=%2300d2ff" width="22" height="22" valign="middle" /> Support My Journey</h3>
+      <p style="margin: 8px 0;"><a href="#"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a></p>
+      <p style="margin: 8px 0;"><a href="#"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" /></a></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ================= CONNECT & SOCIALS ================= -->
+### <img src="https://api.iconify.design/svg-spinners:tadpole.svg?color=%2300d2ff" width="22" height="22" valign="middle" /> Let's Connect & Collaborate!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sahil-raza-31b2aa228/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="https://instagram.com/sahilcodelab"><img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&amp;logo=instagram&amp;logoColor=00d2ff" /></a>&nbsp;&nbsp;
-  <a href="mailto:sahilrazamca@gmail.com"><img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&amp;logo=gmail&amp;logoColor=00d2ff" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/SahilCodeLab"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&amp;logo=github&amp;logoColor=00d2ff" /></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-111827?style=for-the-badge&amp;logo=twitter&amp;logoColor=00d2ff" /></a>&nbsp;&nbsp;
-  <a href="https://youtube.com/@YOUR_YOUTUBE"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="https://sahilcodelab.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&amp;logo=vercel&amp;logoColor=00d2ff" /></a>
+  <a href="https://www.linkedin.com/in/sahil-raza-31b2aa228/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/sahilcodelab"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="mailto:sahilrazamca@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/SahilCodeLab"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/sahilcodelab"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://sahilcodelab.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
 
 <!-- ================= WAVE FOOTER ================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00d2ff,50:0070f3,100:0A101F&amp;height=120&amp;section=footer" />
-
----
-
-<!-- ================= FOOTER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0A101F,100:111827&amp;height=2" width="100%" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,50:0070f3,100:0d1117&height=120&section=footer" alt="Wave Footer" />
 </p>
 
 <p align="center">
-  <b style="color: #9ca3af;">Made with ❤️ by SahilCodeLab</b><br/>
-  <span style="color: #4b5563;">© 2026 — Building the Future, One Commit at a Time 🚀</span>
+  <b style="color: #8b949e;">Crafted with ❤️ by SahilCodeLab</b><br/>
+  <span style="color: #58a6ff;">© 2026 — Designing the Future, One Commits at a Time 🚀</span>
 </p>
 
 <p align="center">
-  <img src="https://api.iconify.design/svg-spinners:clock.svg?color=%2300d2ff" width="18" height="18" />
-  <span style="color: #4b5563;"> Last updated: </span>
-  <span style="color: #00d2ff;">
-    <img src="https://img.shields.io/badge/dynamic/json?color=00d2ff&amp;label=&amp;query=date&amp;url=https://api.github.com/repos/SahilCodeLab/SahilCodeLab/commits/main&amp;style=flat-square" />
-  </span>
+  <img src="https://api.iconify.design/svg-spinners:clock.svg?color=%2300d2ff" width="18" height="18" valign="middle" />
+  <span style="color: #8b949e;"> Last updated: </span>
+  <img src="https://img.shields.io/badge/dynamic/json?color=00d2ff&label=&query=commit.committer.date&url=https://api.github.com/repos/SahilCodeLab/SahilCodeLab/commits/main&style=flat-square" valign="middle" />
 </p>
 
 ---
 
-<!-- ============================================================
-     GITHUB ACTION — APNI SNAKE GENERATE KARNE KE LIYE
-     ============================================================ -->
-
+<!-- ================= GITHUB ACTION SNAKE CONFIG ================= -->
 <details>
-<summary>⚙️ <b>Apni Contribution Snake Generate Karne Ka Action</b> (.github/workflows/snake.yml)</summary>
+<summary>⚙️ <b>Contribution Snake Auto-Generation Action Workflow (.github/workflows/snake.yml)</b></summary>
 
 ```yaml
 name: Generate Snake
@@ -464,3 +456,5 @@ jobs:
           commit_message: "Update snake animation [skip ci]"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+</details>
